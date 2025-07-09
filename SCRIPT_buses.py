@@ -7,7 +7,7 @@ import time  # Para agregar pausas entre solicitudes
 
 # Credenciales de la API de EMT Madrid
 EMAIL = "ssanchezzbl@gmail.com"
-PASSWORD = "SergioTFG2025."
+PASSWORD = "Se."
 
 # Obtener el token de autenticación
 def get_token():
